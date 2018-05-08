@@ -1,2 +1,2 @@
 #                                                       MERO-M-M                                                                          
-!<https://github.com/MERO-M-M/MERO-M-M.github.io/blob/master/Capture.PNG?raw=true>
+![logo](https://raw.githubusercontent.com/MERO-M-M/MERO-M-M.github.io/master/Capture.PNG)
